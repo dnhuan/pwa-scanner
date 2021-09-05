@@ -1,0 +1,8 @@
+{
+  "liveServer.settings.https": {
+    "enable": true,
+    "cert": "/Users/dnhuan/Code/Javascript/pwa-scanner/.vscode/server.crt",
+    "key": "/Users/dnhuan/Code/Javascript/pwa-scanner/.vscode/server.key",
+    "passphrase": "Qwertyuiop!@#"
+  }
+}
